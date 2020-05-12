@@ -1,0 +1,46 @@
+
+
+.m{
+	width: 800px;
+	height: 500px;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid black;
+	margin-top: 90px;
+}
+.a{
+	height: 200px;
+	width:50%;
+	background-color:orange;
+	display: inline-block;
+}
+.b{
+	height: 200px;
+	width:50%;
+	background-color:blue;
+	display: inline-block;
+}
+.c{
+	height: 300px;
+	width:33.33%;
+	background-color:pink;
+		display: inline-block;
+
+}
+.d{
+	height: 300px;
+	width:33.33%;
+	background-color: black;
+		display: inline-block;
+
+}
+
+.e{
+	height: 300px;
+	width:33.33%;
+	background-color:yellow;
+		display: inline-block;
+
+}
+
